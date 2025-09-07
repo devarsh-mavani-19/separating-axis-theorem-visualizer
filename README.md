@@ -18,3 +18,7 @@ Generate build using `yarn build` or `npm run build`
 - React 19 + Vite
 - Konva & Konva React
 - AntDesign
+
+### Screenshots
+
+![separating axis theorem visualizer](https://github.com/devarsh-mavani-19/separating-axis-theorem-visualizer/blob/main/screenshots/demo.png?raw=true)
